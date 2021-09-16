@@ -1,5 +1,12 @@
-# code_refactor
+# Horiseon Refactored Code 
 
-## Refactoring existing code for Horiseon to improve code accessibility and efficiency
+## Refactoring Code Using Semantic Elements
 
-Please follow this [link to view the live Horeiseon]
+* Consolidated CSS selectors and properties and organized them to follow semantic structure.
+
+Streamlined CSS to
+
+Please follow this [link](https://faithelizagreen.github.io/code_refactor/)  
+
+
+![screenshot](./assets/images/screenshot.png)
