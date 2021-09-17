@@ -1,16 +1,16 @@
-/* Style applies to everything || */
+/* Style applies to everything */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* Style applies to body || */
+/* Style applies to body */
 body {
     background-color: #d9dcd6;
 }
 
-/* Style applies to header || */
+/* Style applies to header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,10 +24,7 @@ header h1 {
     color: #d9dcd6;
 }
 
-.header h1 .seo {
-    color: blue;
-}
-/* Style applies to navigation menu || */
+/* Style applies to navigation menu */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,12 +47,12 @@ a {
     text-decoration: none;
 }
 
-/* Style applies to all p elements || */
+/* Style applies to all p elements */
 p {
     font-size: 16px;
 }
 
-/* Style applies to figure element || */
+/* Style applies to figure element */
 figure {
     height: 800px;
     width: 100%;
@@ -64,7 +61,8 @@ figure {
     background-size: cover;
     background-position: center;
 }
-/* Style applies to main element || */
+
+/* Style applies to main element */
 main {
     width: 75%;
     display: inline-block;
@@ -99,7 +97,7 @@ section h2 {
     margin-left: 25px;
 }
 
-/* Style applies to article semantic elements || */
+/* Style applies to article semantic elements */
 article {
     margin-right: 20px;
     padding: 20px;
@@ -111,8 +109,8 @@ article {
     background-color: #2589bd;
 }
 
-/* Style applies to aside semantic elements || */
-aside{
+/* Style applies to aside semantic elements */
+aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -128,7 +126,7 @@ aside img {
     max-width: 150px;
 }
 
-/* Style applies to footer semantic elements || */
+/* Style applies to footer semantic elements */
 footer {
     padding: 30px;
     clear: both;
