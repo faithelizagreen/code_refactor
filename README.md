@@ -4,7 +4,7 @@
 
 <br>
 
-Improved website accessibility by consolidated CSS selectors and properties by organizing them into semantic structure.
+Improved website accessibility by consolidating CSS selectors and properties by organizing them into semantic structure.
 
 <br>
 
