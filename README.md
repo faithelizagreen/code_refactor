@@ -2,11 +2,13 @@
 
 ## Refactoring Code Using Semantic Elements
 
-* Consolidated CSS selectors and properties and organized them to follow semantic structure.
+<br>
 
-Streamlined CSS to
+Improved website accessibility by consolidated CSS selectors and properties by organizing them into semantic structure.
 
-Please follow this [link](https://faithelizagreen.github.io/code_refactor/)  
+<br>
+
+Please follow this [link](https://faithelizagreen.github.io/code_refactor/) to view live website.
 
 
 ![screenshot](./assets/images/screenshot.png)
